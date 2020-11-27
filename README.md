@@ -17,11 +17,11 @@
 
 ✔ Collection my App
 
-👉🛠 Find example all my [Scratch App](https://github.com/ekaone) 
+👉🛠 Find example all my [Scratch App](https://github.com/ekaone)
 
 ✔ Community
 
 I am author for two communities in Indonesia
-- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
-- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+- GatsbyJS Indonesia [Gatsby-ID](https://github.com/GatsbyJS-Indonesia)
+- RedwoodJS Indonesia [Redwood-ID](https://github.com/RedwoodJS-Indonesia)
 - NextJS Indonesia [Next.js-ID](https://github.com/NextJS-Indonesia)
